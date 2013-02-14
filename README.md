@@ -1,6 +1,5 @@
 ChickenStealer v1.0
 ==============
-
 Steals raw chickens from Wydin's food store in Port Sarim
 
 
