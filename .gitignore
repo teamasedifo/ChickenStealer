@@ -1,4 +1,9 @@
 run.bat
 *.txt
-*.lib
+lib
+bin
+.classpath
+.project
+compile.bat
+.settings
 RSBot.jar
