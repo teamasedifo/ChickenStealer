@@ -7,3 +7,5 @@ bin
 compile.bat
 .settings
 RSBot.jar
+compile.bat
+run.bat
